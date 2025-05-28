@@ -12,7 +12,7 @@ const DesignPatternsPage = () => {
 
         <div>
           <section className="info-section">
-            <h2>1. Single Responsibility Principle (SRP)</h2>
+            <h3>1. Single Responsibility Principle (SRP)</h3>
             <div>
               <p>
                 This principle emphasizes creating React components with a single, well-defined responsibility.
@@ -26,7 +26,7 @@ const DesignPatternsPage = () => {
           </section>
 
           <section className="info-section">
-            <h2>2. Page Components, Feature Components, and UI Components</h2>
+            <h3>2. Page Components, Feature Components, and UI Components</h3>
             <div>
               <p>
                 The video distinguishes between three primary types of components:
@@ -51,7 +51,7 @@ const DesignPatternsPage = () => {
             </div>
           </section>
           <section className="info-section">
-            <h2>3. Compound Components</h2>
+            <h3>3. Compound Components</h3>
             <div>
               <p>
                 Compound components are a pattern where a parent component works implicitly with its child
@@ -64,7 +64,7 @@ const DesignPatternsPage = () => {
             </div>
           </section>
           <section className="info-section">
-            <h2>4. Extracting Logic into Hooks</h2>
+            <h3>4. Extracting Logic into Hooks</h3>
             <div>
               <p>
                 This pattern involves extracting component logic, even if it's not reused elsewhere, into custom React Hooks.
