@@ -14,7 +14,7 @@ This is a simple React project.
 3. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Features
