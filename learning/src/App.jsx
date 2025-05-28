@@ -30,7 +30,7 @@ function App() {
         </main>
 
         <footer className="app-footer">
-          <p>&copy; 2024 Studing Reack</p>
+          <p>&copy; 2024 Studying React</p>
         </footer>
       </div>
     </Router>
