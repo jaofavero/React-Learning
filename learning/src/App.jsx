@@ -23,7 +23,8 @@ function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/hooks" element={<HooksPage />} />
             <Route path="/design-patterns" element={<DesignPatternsPage />} /> 
-            <Route path="/testing" element={<TestingPage />} />          
+            <Route path="/testing" element={<TestingPage />} />  
+            <Route path="/Error" element={<ErrorPage />} />        
             <Route path="*" element={<h2 style={{ padding: '20px' }}>Page not Found</h2>} />
           </Routes>
 

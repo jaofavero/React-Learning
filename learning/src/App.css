@@ -219,3 +219,18 @@ body {
   width: 100%; 
   align-items: center; 
 }
+
+.error-section {
+  background-color: #ffebee; 
+  color: #d32f2f; 
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+  border: 1px solid #ffcdd2; 
+  width: 100%;
+  max-width: 600px; 
+}
+.error-section h { 
+  color: #d32f2f; 
+  margin-bottom: 10px;
+}
