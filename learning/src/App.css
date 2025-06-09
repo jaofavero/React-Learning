@@ -234,3 +234,20 @@ body {
   color: #d32f2f; 
   margin-bottom: 10px;
 }
+
+.cmd-style {
+  background-color: #1e1e1e;
+  color: #d4d4d4;
+  font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', monospace;
+  padding: 18px 20px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  font-size: 1em;
+  line-height: 1.6;
+  margin: 20px 0;
+  white-space: pre-wrap;
+  overflow-x: auto;
+  border: 1px solid #333;
+  text-align: left;
+}
+ 

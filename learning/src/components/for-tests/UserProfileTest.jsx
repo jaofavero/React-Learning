@@ -16,7 +16,7 @@ function UserProfileTest({ userId }) {
     return (
         <div className="user-profile-test">
             <h1>User Profile Test</h1>
-            <p><strong>Name:</strong> {user.name}</p>
+            <h2><strong>Name:</strong> {user.name}</h2>
             <p><strong>Email:</strong> {user.email}</p>
         </div>
     );
