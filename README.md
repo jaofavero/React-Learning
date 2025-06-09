@@ -16,12 +16,10 @@ This is a simple React project.
     ```bash
     npm run dev
     ```
-### Testing Install
-
+4. Testing Install (optional, just for tests)
     ```bash
     npm install -save-dev vitest @testing-library/react @testing-library/user-event @testing-library/jest-dom jsdom
     ```
-
 
 ## Features
 
