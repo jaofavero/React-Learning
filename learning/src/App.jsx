@@ -35,7 +35,7 @@ function App() {
 
         <footer className="app-footer">
           {/* Footer section */}
-          <p>&copy; 2024 Studying React</p>
+          <p>&copy; 2025 Studying React</p>
         </footer>
       </div>
     </Router>
