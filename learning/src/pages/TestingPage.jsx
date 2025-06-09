@@ -8,7 +8,7 @@ const TestingPage = () => {
     <>
       <section className="info-section">
         <h3>Exploring Testings</h3>
-        <p>Bellow you can see diferents types of tests to React (Jest, React Testing Library, etc.).</p>
+        <p>Bellow you can see diferents types of tests in React (Vitest).</p>
       </section>
       <section className='card' tag='GreetingTest'>
         <h2>Greeting Test</h2>

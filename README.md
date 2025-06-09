@@ -16,11 +16,19 @@ This is a simple React project.
     ```bash
     npm run dev
     ```
+    
+# Getting Started Testing
+
+    ```bash
+    npm install -D vitest
+    ```
 
 ## Features
 
 - Modern React setup
 - Easy to customize
+
+
 
 ## License
 
