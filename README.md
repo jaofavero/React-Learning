@@ -16,19 +16,17 @@ This is a simple React project.
     ```bash
     npm run dev
     ```
-    
-# Getting Started Testing
+### Testing Install
 
     ```bash
-    npm install -D vitest
+    npm install -save-dev vitest @testing-library/react @testing-library/user-event @testing-library/jest-dom jsdom
     ```
+
 
 ## Features
 
 - Modern React setup
 - Easy to customize
-
-
 
 ## License
 
